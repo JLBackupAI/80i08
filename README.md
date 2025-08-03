@@ -1,0 +1,31 @@
+# 80i08: Quantum Self-Evolving AI Image Generator
+
+**80i08** is an experimental, self-evolving AI pipeline built around ComfyUI. It integrates autonomous self-improvement, LLM-driven prompt engineering, quantum-inspired code analysis, and knowledge ingestion from your personal book collection.
+
+## Architecture
+
+- **ComfyUI Submodule:** The backbone for all image generation.
+- **Custom Nodes:** Extend ComfyUI with LLM prompt refinement, quantum code parsing, feedback, caching, and book ingestion.
+- **Books Integration:** Place your books (TXT or Markdown) in the `books/` folder for fine-tuning and agent knowledge.
+- **Automation:** GitHub Actions, webhooks, and local scripts keep code/data synced and evolving.
+
+## Quickstart
+
+1. Clone the repo and initialize the ComfyUI submodule:
+   ```bash
+   git submodule add https://github.com/comfyanonymous/ComfyUI.git comfyui
+   git submodule update --init --recursive
+   ```
+2. Place your books in the `books/` folder.
+3. Install dependencies (`pip install -r requirements.txt`).
+4. Run the agent main loop: `python scripts/agent_main.py`.
+
+## Extending
+
+- Add new books to `books/` to enhance agent knowledge.
+- Tweak or add custom nodes in `nodes/` for new logic.
+- Update the blueprint in `docs/`.
+
+## License
+
+MIT License
