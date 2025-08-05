@@ -27,5 +27,5 @@
 - Update the blueprint in `docs/`.
 
 ## License
-
+automation is tough haha
 MIT License
