@@ -9,23 +9,6 @@
 - **Books Integration:** Place your books (TXT or Markdown) in the `books/` folder for fine-tuning and agent knowledge.
 - **Automation:** GitHub Actions, webhooks, and local scripts keep code/data synced and evolving.
 
-## Quickstart
-
-1. Clone the repo and initialize the ComfyUI submodule:
-   ```bash
-   git submodule add https://github.com/comfyanonymous/ComfyUI.git comfyui
-   git submodule update --init --recursive
-   ```
-2. Place your books in the `books/` folder.
-3. Install dependencies (`pip install -r requirements.txt`).
-4. Run the agent main loop: `python scripts/agent_main.py`.
-
-## Extending
-
-- Add new books to `books/` to enhance agent knowledge.
-- Tweak or add custom nodes in `nodes/` for new logic.
-- Update the blueprint in `docs/`.
-
 ## License
 automation is tough haha
 MIT License
