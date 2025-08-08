@@ -1,0 +1,73 @@
+// Copyright (c) 2025 XD Sloan
+// Licensed under JLBackupAI Source-Available License (Non-Commercial) v1.0
+// See LICENSE for details. Commercial licensing: [your email or URL]
+JLBackupAI Source-Available License (Non-Commercial) v1.0
+
+Copyright (c) 2025 XD Sloan
+
+Preamble. This is a source-available, non-commercial license. It allows use, copying, modification, and sharing for non-commercial purposes only. Commercial use requires a separate commercial license from the copyright holder. This license is not the MIT License and is not OSI-approved open source.
+1. Definitions
+
+    “Software” means the source code, object code, assets, and documentation in this repository.
+
+    “You” / “Your” means the individual or entity exercising permissions under this license.
+
+    “Derivative Work” means any work that is based on or incorporates the Software, in whole or in part.
+
+    “Commercial Use” means any use intended for or directed toward commercial advantage or monetary compensation, including but not limited to: providing the Software or a Derivative Work (i) as a paid product or service (including SaaS), (ii) in or for a for-profit business in a way that materially supports revenue-generating activities, (iii) with ads, sponsorships, or paywalls, or (iv) in consulting/services where the Software or a Derivative Work is a material part of deliverables.
+
+2. Grant of Permission (Non-Commercial Only)
+
+Subject to the terms below, permission is granted, free of charge, to any person obtaining a copy of the Software to use, copy, modify, merge, publish, and distribute the Software and Derivative Works for non-commercial purposes only.
+3. Conditions
+
+You must:
+
+    Include this license text and the copyright notice in all copies or substantial portions of the Software and in all Derivative Works.
+
+    Clearly mark changes you make.
+
+    Not remove or alter any notices, attributions, or disclaimers.
+
+4. Prohibitions
+
+You may not:
+
+    Use the Software or Derivative Works for Commercial Use without a separate written commercial license from JLBackupAI.
+
+    Sublicense, relicense, or sell the Software or any Derivative Work.
+
+    Offer the Software or Derivative Works as a hosted or managed service for a fee (including SaaS or API).
+
+    Use the Software or Derivative Works in connection with, to build for, or to interoperate with the “80i08” game (including any forks, mods, tools, or services) except by JLBackupAI or with JLBackupAI’s explicit written permission.
+
+    Remove, obscure, or misrepresent authorship or origin.
+
+5. Trademarks
+
+This license does not grant rights to use JLBackupAI’s names, logos, trademarks, or the “80i08” mark.
+6. Contributions
+
+By submitting a contribution, you agree that:
+
+    Your contribution is licensed under this license; and
+
+    You grant JLBackupAI a perpetual, irrevocable right to relicense your contribution under different terms (including commercial) as part of the project’s distribution.
+
+7. Patent Grant & Defensive Termination
+
+For non-commercial uses permitted above, each contributor grants You a worldwide, royalty-free, non-exclusive patent license to make, use, and distribute the Software and Derivative Works. If You initiate patent litigation alleging that the Software infringes a patent, this license terminates immediately.
+8. Termination
+
+This license terminates automatically if You breach it. If you cure the breach within 30 days of notice, permissions may be reinstated at JLBackupAI’s discretion. Upon termination, You must cease use and distribution and destroy or return copies.
+9. Warranty Disclaimer
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+10. Governing Law
+
+Unless otherwise agreed in writing, this license is governed by the laws of [insert jurisdiction], excluding its conflict-of-law rules.
+11. Commercial Licensing
+
+For commercial use, contact: [insert email or URL for licensing].
+
+SPDX-Identifier: LicenseRef-JLBackupAI-SA-NC-1.0
